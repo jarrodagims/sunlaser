@@ -7,3 +7,8 @@
 .sub a {
   color: #666;
 }
+
+.big-number {
+  color: #292929;
+  font-weight: 300;
+}
