@@ -1,3 +1,9 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
 
-.logo{ max-height: 50%; }
+.logo {
+  max-height: 50%;
+}
+
+.sub a {
+  color: #666;
+}
